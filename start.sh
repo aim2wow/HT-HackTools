@@ -304,7 +304,7 @@ elif [[ $ islem  == 22]] ;  sonra
 
 Başka   
 	açık
-        echo -e ' \ 033 [36; 40; 1m Girdiğniz İşlem Numarasını Kontrol Etmeniz Gerekiyor... '	
+        echo -e ' \ 033 [36; 40; 1m Girdiğniz İşlem Numarasını Kontrol Etmeniz Gerekiyor ... '	
 	uyku 1
 	açık 
 	bash start.sh
