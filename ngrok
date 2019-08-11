@@ -1,20 +1,20 @@
   
 #! / bin / bash
-# Kod: YamanEfkar
-# İnstagram: @yamanefkarr
-# Youtube: Yamanefkar
+# Kod yapimi: aim.2wow
+# İnstagram: @maysberkex
+# Youtube: aim.2wowchannel
 echo -e ' \ 033 [31; 40; 1 m
 		   ─────█─▄▀█──█▀▄─█─────
 		   ────▐▌──────────▐▌────
 		   ────█▌▀▄──▄▄──▄▀▐█────
 		   ───▐██──▀▀──▀▀──██▌───
 		   ──▄████▄──▐▌──▄████▄──
-      \ e [35m ☠ Kod: YamanEfkar ☠
-	  [e [34m☠ Github: YamanEfkar]
-	 \ e [33m☠ Youtube: YamanEfkar ☠
-	\ e [32m☠ İnstagram: @yamanefkarr ☠
+      \ e [35m ☠ Kod yapimi: aim.2wow 😎
+	  [e [34m☠ Github: aim.2wow]
+	 \ e [33m☠ Youtube: aim.2wowchannel 😎
+	\ e [32m☠ İnstagram: @maysberkex 😎
 	
-	\ e [36m ☾ ★ ☾ ★ Türk Siber Timi ☾ ★ ☾ ★	
+	\ e [36m ☾ ★ ☾ ★ By Hack Tools ☾ ★ ☾ ★	
 \ e [32m [1] \ e [33mTermux Güncelle \ e [32m [12] \ e [33mFindUser 
 \ e [32m [2] \ e [33mXerxes \ e [32m [13] \ e [33mNmap
 \ e [32m [3] \ e [33mHnerner \ e [32m [14] \ e [33mA-Rat
@@ -304,7 +304,7 @@ elif [[ $ islem  == 22]] ;  sonra
 
 Başka   
 	açık
-        echo -e ' \ 033 [36; 40; 1m Girdiğniz İşlem Numarasını Kontrol Ediniz .... '	
+        echo -e ' \ 033 [36; 40; 1m Girdiğniz İşlem Numarasını Kontrol Etmeniz Gerekiyor...'	
 	uyku 1
 	açık 
 	bash start.sh
